@@ -6,10 +6,5 @@
 
 <img src="architecture.png" width="800"/>
 
-# Preparation 
-## Requirements
-* Pytorch ==2.0.1
-* Python ==3.8
-* mamba-ssm == 1.0.1
-* causal-conv1d ==1.0.0
-* CUDA == 11.6+
+This work has been accepted for presentation at the 2025 IEEE International Symposium on Biomedical Imaging(ISBI).
+
