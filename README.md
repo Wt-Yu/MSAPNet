@@ -6,5 +6,4 @@
 
 <img src="architecture.png" width="800"/>
 
-This work has been accepted for presentation at the 2025 IEEE International Symposium on Biomedical Imaging(ISBI).
-
+🎉🎉 **The article has been accepted for presentation at the 2025 IEEE International Symposium on Biomedical Imaging!** 🎉🎉
